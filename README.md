@@ -1,4 +1,6 @@
 # Dynamic-Scrollspy
+
+[![Join the chat at https://gitter.im/psalmody/dynamic-scrollspy](https://badges.gitter.im/psalmody/dynamic-scrollspy.svg)](https://gitter.im/psalmody/dynamic-scrollspy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 by Michael A Smith @psalmody
 
 jQuery plugin to dynamically generate a `.nav` outline and setup Bootstrap scrollspy.
